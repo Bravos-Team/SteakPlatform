@@ -3,6 +3,7 @@
 </p>
 
 <p align="center"><i>The next-gen platform for game distribution</i></p>
+
 # Steak – Digital Game Distribution Platform
 
 **Steak** is a full-stack platform inspired by Steam and Epic Games, designed for buying, downloading, and managing licensed PC games. It supports both players and game publishers.
