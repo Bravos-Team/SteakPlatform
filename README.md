@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ccdn.steak.io.vn/logo_steak.svg" alt="Steak Logo" width="200"/>
+  <img src="logo_steak.svg" alt="Steak Logo" width="200"/>
 </p>
 
 <p align="center"><i>The next-gen platform for game distribution</i></p>
